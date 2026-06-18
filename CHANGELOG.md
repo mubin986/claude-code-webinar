@@ -1,3 +1,10 @@
+## [0.3.0](https://github.com/mubin986/claude-code-webinar/compare/v0.2.2...v0.3.0) (2026-06-18)
+
+
+### Features
+
+* ci pipeline ([bbc5241](https://github.com/mubin986/claude-code-webinar/commit/bbc5241100273dbfb770ffbfd1566aa2bb8cb842))
+
 ## [0.2.2](https://github.com/mubin986/claude-code-webinar/compare/v0.2.1...v0.2.2) (2026-06-18)
 
 
